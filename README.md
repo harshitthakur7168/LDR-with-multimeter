@@ -17,15 +17,19 @@ Hence, when light having ample energy, more electrons are excited to the conduct
 So as the resistance changes the value on the multimeter changes. This the basic priciple behind the auto brightness feature of the phone which changes the brightness of the screen as the we come in the dark or more light than we were previously in.
 
 
-Here i have used Tinkercad a free online tool to upload and simulate circuits online.
+**Here i have used Tinkercad a free online tool to upload and simulate circuits online.
+**
 
-3 different scenarios i have uploaded where the brightness is give at three diffrent levels.
+
+---> 3 different scenarios i have uploaded where the brightness is give at three diffrent levels.
+
+
 
 1) Least Bright
 
 
-
   ![2](https://user-images.githubusercontent.com/96690206/151943235-fd14fc09-b142-42da-a7f6-17dc287a6301.png)
+  
   
   
 2) Medium Light Intensity
