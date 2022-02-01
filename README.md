@@ -21,6 +21,10 @@ So as the resistance changes the value on the multimeter changes. This the basic
 **
 
 
+Here is the link to my tinkercad where i have implemented this circuit : https://www.tinkercad.com/things/6E3AWNZaz0y-ldr
+
+
+
 ---> 3 different scenarios i have uploaded where the brightness is give at three diffrent levels.
 
 
